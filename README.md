@@ -24,7 +24,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="https://instagram.com/natandsgner" title="defina o título do link">
         <img src="https://avatars.githubusercontent.com/u/141788258?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
-          <b>Amaral Designer</b>
+          <b>Natan Designer</b>
         </sub>
       </a>
     </td>
